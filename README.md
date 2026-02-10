@@ -14,3 +14,11 @@ sudo apt install lxd -y
 lxd init
 chmod +x deploy-monitor.sh
 ./deploy-monitor.sh
+```
+## Cek IP container:
+lxc list
+
+## Buka di browser:
+http://IP_MONITOR:19999
+
+
