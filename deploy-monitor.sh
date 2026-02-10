@@ -1,8 +1,4 @@
 
----
-
-## File: `deploy.sh`
-```bash
 #!/bin/bash
 
 set -e
