@@ -12,5 +12,5 @@ Proyek ini membuat lingkungan monitoring server menggunakan LXC.
 ```bash
 sudo apt install lxd -y
 lxd init
-chmod +x deploy.sh
-./deploy.sh
+chmod +x deploy-monitor.sh
+./deploy-monitor.sh
